@@ -519,6 +519,7 @@ legend{
 
 .fa,#content .admonition-title,.icon{
     display:inline-block;
+    font-family:FontAwesome;
     font-style:normal;
     font-weight:normal;
     line-height:1;
